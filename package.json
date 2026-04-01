@@ -1,0 +1,10 @@
+{
+  "name": "arweave-ipfs-storage-bridge",
+  "version": "1.0.0",
+  "description": "On-chain Registry for Decentralized Storage URIs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
